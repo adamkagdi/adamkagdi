@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Linux Distrobutions, AUR Packages and etc
 - 📫 How to reach me via 
 Email: Adamkagdi@hotmail.com                          
+- 💬 I know a bit of HTML, C, Haskell and Python
 
 <!---
 adamkagdi/adamkagdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
