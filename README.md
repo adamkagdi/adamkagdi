@@ -5,7 +5,7 @@
 - 📫 How to reach me via 
 Email: Adamkagdi@hotmail.com                          
 - 💬 I know a bit of HTML, C, Haskell and Python
-- 💻 Using Debian Buster and Windows 10
+- 💻 Using Arch Linux and Windows 11
 
 <!---
 adamkagdi/adamkagdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
