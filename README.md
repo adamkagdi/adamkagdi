@@ -20,4 +20,4 @@
 [website]: https://adamkagdi.github.io/website
 [twitter]: https://twitter.com/adam_kagdi
 [instagram]: https://instagram.com/adam.kagdi
-[linkedin]: https://linkedin.com/in/adam-kagdi
+[linkedin]: https://linkedin.com/in/adam-kagdi-872882212/
