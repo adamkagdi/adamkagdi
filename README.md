@@ -18,6 +18,6 @@
 <br />
 
 [website]: https://adamkagdi.github.io/website
-[twitter]: https://twitter.com/adamkagdi
+[twitter]: https://twitter.com/adam_kagdi
 [instagram]: https://instagram.com/adam.kagdi
-[linkedin]: https://linkedin.com/in/adamkagdi
+[linkedin]: https://linkedin.com/in/adam-kagdi
